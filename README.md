@@ -1,4 +1,4 @@
-📊 Análisis de los Deportistas Mejor Pagados
+📊 **Análisis de los Deportistas Mejor Pagados**
 
 Este archivo forma parte de mi portafolio y muestra mis habilidades en análisis de datos utilizando NumPy, Pandas, Matplotlib y Seaborn. En este proyecto, exploré la evolución de las ganancias de los deportistas a lo largo del tiempo, que deportes generan mas dinero y quienes son los deportistas mejores pagos.
 
